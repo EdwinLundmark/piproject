@@ -1,4 +1,3 @@
-from flask.templating import _render
 from calculations import startSchedule
 import threading
 import flask
